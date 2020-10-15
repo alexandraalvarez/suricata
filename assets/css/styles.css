@@ -1,0 +1,28 @@
+:root {
+    --nav-foot-bg-color: #E83E8C;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.imgSuriNav {
+    width: 8.25em;
+    margin-top: 0.6em;
+    margin-bottom: 0.5em;
+}
+.grayColor {
+    color: #707070;
+}
+.backColorPink {
+    background-color: var(--nav-foot-bg-color) !important;
+}
+.backColorSky {
+    background-color: #17A2B8;
+}
+section div .fab {
+    font-size: 4em;
+}
+.imgSuriFoot {
+    height: 6.25em;
+    margin-top: 1.875em;
+    margin-bottom: 3.3125em;
+}
